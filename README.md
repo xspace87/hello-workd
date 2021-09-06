@@ -1,4 +1,6 @@
-# hello-workd
-Just a traditional hello world, learn how to use git hub
+I am a software developer in china.
 
-I am a software developer in china, little of beginner to github.
+# Linux System Call Lib 
+## Time Lib
+>Note: refer to some materials, try to write a collection of code wrapping time system/lib calls
+
